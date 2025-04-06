@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Pochaevsk&family=Ponomar&family=Rubik+Wet+Paint&family=Shafarik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Pochaevsk&family=Ponomar&family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Pochaevsk&family=Rubik+Wet+Paint&display=swap');
+.b1{
+    position: relative;
+    /* display: flex; */
+    /* background-color: thistle; */
+}
+.w1{
+
+/* font-style: italic; */
+/* text-align: center; */
+position: absolute;
+left: 5%;
+color: rgb(179, 6, 6);
+top: 25%;
+z-index: 5;
+font-family: "Rubik Wet Paint", system-ui;
+font-size: 80px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.b1 img{
+    width: 100%;
+}
+p{
+    font-family: "Ponomar", system-ui;
+color: rgb(206, 5, 5);
+}
+h1{
+    font-family: "Shafarik", system-ui;
+color: firebrick;
+}
